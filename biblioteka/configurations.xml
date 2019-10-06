@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="yes"?>
+<configurations>
+    <database>
+        <server>localhost</server>
+        <user>biblio_korisnik</user>
+        <password>mtip2018</password>
+        <databasename>biblioteka2018</databasename>
+    </database>
+</configurations>
